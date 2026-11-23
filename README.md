@@ -1,6 +1,5 @@
 # Online-Quiz-Application
 
-# Online Quiz Application
 
 ## About the Project
 
