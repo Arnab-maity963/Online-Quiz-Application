@@ -140,6 +140,3 @@ JWT_SECRET=your_secret_key
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository.
-
-**Developed with ❤️ by Arnab Kumar Maity.**
